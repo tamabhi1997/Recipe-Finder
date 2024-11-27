@@ -37,6 +37,7 @@ This will start the Flask backend on http://127.0.0.1:5000.
 You can upload the recipe dataset using the /upload endpoint in the backend. Use the following curl command:
 
 curl -X POST -F "file=@path_to_your_dataset.json" http://127.0.0.1:5000/upload
+
 Replace path_to_your_dataset.json with the actual path to of the dataset file from the repo.
 
 4. Run the Frontend
