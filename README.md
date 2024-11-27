@@ -13,16 +13,16 @@ Features
 
 
 Requirements
-  Backend
-    Python 3.8+
-    Elasticsearch 8.x
-    Flask
-    Required Python packages:
-      pip install flask elasticsearch requests
-  Frontend
-    Streamlit
-    Required Python packages:
-    pip install streamlit pandas requests
+  -Backend
+    -Python 3.8+
+    -Elasticsearch 8.x
+    -Flask
+    -Required Python packages:
+      -pip install flask elasticsearch requests
+  -Frontend
+    -Streamlit
+    -Required Python packages:
+    -pip install streamlit pandas requests
 
 
 How to Run the Project
