@@ -46,6 +46,9 @@ Start the Streamlit frontend:
 streamlit run frontend_app.py
 This will start the app on http://localhost:8501.
 
+Screenshots:-
+<img width="1470" alt="Screenshot 2024-11-27 at 4 08 01 PM" src="https://github.com/user-attachments/assets/2ce8f48d-b407-4197-b48f-3ed77a3b1093">
+
 
 Credits
   Recipe Dataset: [RecipeNLG Dataset](url)
