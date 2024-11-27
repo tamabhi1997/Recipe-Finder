@@ -44,3 +44,8 @@ Start the Streamlit frontend:
 
 streamlit run frontend_app.py
 This will start the app on http://localhost:8501.
+
+
+Credits
+  Recipe Dataset: [RecipeNLG Dataset](url)
+
