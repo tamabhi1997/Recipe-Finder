@@ -1,6 +1,6 @@
 Recipe-Finder
   🍳 Recipe Finder is a web application that allows users to search for recipes based on recipe names or ingredients. This app is built using   Streamlit for the frontend and Flask with Elasticsearch for the backend, providing a seamless and fast search experience.
-------------------------------------------------------------------------------------------------------------------------------------------------
+
 Features
   Search recipes by name or ingredients.
   Display detailed information about each recipe:
@@ -10,7 +10,7 @@ Features
     Tags
   Constant recipe image for a consistent user experience.
   Fast and scalable search using Elasticsearch.
-------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 Requirements
   Backend
@@ -24,7 +24,6 @@ Requirements
     Required Python packages:
     pip install streamlit pandas requests
 
------------------------------------------------------------------------------------------------------------------------------------------------
 
 How to Run the Project
 1. Start Elasticsearch
