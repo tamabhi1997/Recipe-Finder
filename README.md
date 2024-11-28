@@ -38,7 +38,8 @@ You can upload the recipe dataset using the /upload endpoint in the backend. Use
 
 curl -X POST -F "file=@path_to_your_dataset.json" http://127.0.0.1:5000/upload
 
-Replace path_to_your_dataset.json with the actual path to of the dataset file from the repo.
+Replace path_to_your_dataset.json with the actual path to of the dataset file from here
+  Recipe Dataset: [RecipeNLG Dataset](https://recipenlg.cs.put.poznan.pl/)
 
 4. Run the Frontend
 Start the Streamlit frontend:
@@ -52,6 +53,5 @@ Screenshots:-
 <img width="1470" alt="Screenshot 2024-11-27 at 4 08 12 PM" src="https://github.com/user-attachments/assets/56d3f2d2-4492-463b-9add-4c026bc316d9">
 
 
-Credits
-  Recipe Dataset: [RecipeNLG Dataset](url)
+
 
