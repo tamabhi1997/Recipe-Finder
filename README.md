@@ -52,6 +52,11 @@ Screenshots:-
 
 <img width="1470" alt="Screenshot 2024-11-27 at 4 08 12 PM" src="https://github.com/user-attachments/assets/56d3f2d2-4492-463b-9add-4c026bc316d9">
 
+## Screenshots
+
+![Recipe Finder App](screenshot1.png)
+![Recipe Finder App 2](screenshot2.png)
+
 
 
 
